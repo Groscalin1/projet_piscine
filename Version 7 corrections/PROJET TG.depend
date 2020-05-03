@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1587981216 source:d:\documents\ece\ing2\informatique\tp\tp 3 théoriedesgraphes\projet tg\src\arete.cpp
+
+1587981199 source:d:\documents\ece\ing2\informatique\tp\tp 3 théoriedesgraphes\projet tg\src\graphe.cpp
+
+1587981188 source:d:\documents\ece\ing2\informatique\tp\tp 3 théoriedesgraphes\projet tg\src\sommet.cpp
+
+1588066113 source:d:\documents\ece\ing2\informatique\projet\[tg s4] brice,de traverse,kerhoas\src\arete.cpp
+	"../include/Arete.hpp"
+	"../include/Sommet.hpp"
+
+1588171496 source:d:\documents\ece\ing2\informatique\projet\[tg s4] brice,de traverse,kerhoas\src\graphe.cpp
+	"../include/Graphe.hpp"
+
+1588078826 source:d:\documents\ece\ing2\informatique\projet\[tg s4] brice,de traverse,kerhoas\src\sommet.cpp
+	"../include/Sommet.hpp"
+	<string>
+	<vector>
+
+1588108719 d:\documents\ece\ing2\informatique\projet\[tg s4] brice,de traverse,kerhoas\include\sommet.hpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	<cmath>
+	<queue>
+	<utility>
+	<tuple>
+
+1588065937 d:\documents\ece\ing2\informatique\projet\[tg s4] brice,de traverse,kerhoas\include\arete.hpp
+	"Sommet.hpp"
+
+1588168551 source:d:\documents\ece\ing2\informatique\projet\[tg s4] brice,de traverse,kerhoas\main.cpp
+	<iostream>
+	"include/Graphe.hpp"
+	"include/Svgfile.hpp"
+
+1588155263 d:\documents\ece\ing2\informatique\projet\[tg s4] brice,de traverse,kerhoas\include\graphe.hpp
+	"Sommet.hpp"
+	"Arete.hpp"
+	"Svgfile.hpp"
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	<cmath>
+	<queue>
+	<utility>
+	<tuple>
+	<map>
+
+1587989767 d:\documents\ece\ing2\informatique\projet\[tg s4] brice,de traverse,kerhoas\include\svgfile.hpp
+	<string>
+	<fstream>
+	<set>
+
+1587990797 source:d:\documents\ece\ing2\informatique\projet\[tg s4] brice,de traverse,kerhoas\src\svgfile.cpp
+	"../include/Svgfile.hpp"
+	<iostream>
+	<sstream>
+
